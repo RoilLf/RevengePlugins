@@ -1,10 +1,10 @@
 {
-    "name": "HypeSquadSwitcher",
+    "name": "unhappy:c",
     "description": "Add or change or remove your HypeSquad badge",
     "authors": [
         {
-            "name": "coder.gg",
-            "id": "1099039269391171765"
+            "name": "supcoldify",
+            "id": "1390947560214106224"
         }
     ],
     "main": "src/index.ts",
